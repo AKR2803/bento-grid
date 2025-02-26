@@ -21,7 +21,7 @@ This is an implementation to the [Bento grid challenge on Frontend Mentor](https
 - I created the main grid layout first containing 8 cells inside a 6 X 4 grid.
 - Here is the main layout of the page
 
-![MainLayout](./preview/grid-layout.png)
+![MainLayout](./preview/grid-layout-2.png)
 
 - Followed by this the content for each cell was put and flexbox with wrap was used to make each cell's content responsive.
 
