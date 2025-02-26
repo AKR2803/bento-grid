@@ -1,4 +1,4 @@
-# Frontend Mentor - Bento grid
+# Frontend Mentor - Bento grid [[Live Here](https://bento-grid-silk.vercel.app/)]
 
 This is an implementation to the [Bento grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). 
 
@@ -14,15 +14,14 @@ This is an implementation to the [Bento grid challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live Site URL](https://bento-grid-silk.vercel.app/)
 
 ## My process
 
 - I created the main grid layout first containing 8 cells inside a 6 X 4 grid.
 - Here is the main layout of the page
 
-![MainLayout](./preview/screenshot.png)
+![MainLayout](./preview/grid-layout.png)
 
 - Followed by this the content for each cell was put and flexbox with wrap was used to make each cell's content responsive.
 
